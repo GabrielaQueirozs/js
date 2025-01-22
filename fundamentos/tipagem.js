@@ -32,4 +32,4 @@ console.log(`peso: ${peso}`)
 console.log(`altura: ${altura}`)
 console.log(`vip: ${vip}`)
 console.log(`imc: ${imc.toFixed(2)}`)
-console.log(`fcm: ${fcm} bpm` )
+console.log(`fcm: ${fcm} bpm` )typeof
