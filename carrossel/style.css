@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+.destaque {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.Carrossel {
+        width: 512px;
+    }
+.container { 
+    display: flex;
+    transform: translateX(300px);
+}
+.container img { 
+    max-width: 512px;
+
+}
+ 
